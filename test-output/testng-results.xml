@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1991" started-at="2022-04-09T18:18:06Z" finished-at="2022-04-09T18:18:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1991" started-at="2022-04-09T18:18:06Z" finished-at="2022-04-09T18:18:08Z">
+      <class name="testCases.LogInText">
+        <test-method status="PASS" signature="launchUrl()[pri:0, instance:testCases.LogInText@490ab905]" name="launchUrl" is-config="true" duration-ms="10549" started-at="2022-04-09T23:47:55Z" finished-at="2022-04-09T23:48:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method status="PASS" signature="objectCreation()[pri:0, instance:testCases.LogInText@490ab905]" name="objectCreation" is-config="true" duration-ms="42" started-at="2022-04-09T23:48:06Z" finished-at="2022-04-09T23:48:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectCreation -->
+        <test-method status="PASS" signature="verifyInvalidCredentialMessage()[pri:0, instance:testCases.LogInText@490ab905]" name="verifyInvalidCredentialMessage" duration-ms="1929" started-at="2022-04-09T23:48:06Z" finished-at="2022-04-09T23:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidCredentialMessage -->
+      </class> <!-- testCases.LogInText -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
