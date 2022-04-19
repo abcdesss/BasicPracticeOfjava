@@ -19,7 +19,7 @@ public void launchUrl() {
 	options.addArguments("--start-maximized");
 	options.addArguments("--disable-notifications");
 	driver=new ChromeDriver(options);
-	driver.get("https://opensource-demo.orangehrmlive.com/");	 
+	  driver.get("https://opensource-demo.orangehrmlive.com/");	 
 }
 
 @BeforeClass
